@@ -9,6 +9,13 @@
 	],
 "creatorBuild": "26680",
 "files": {
+	"\/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/.gitattributes",
+		"oF": 0
+		},
 	"\/css\/normalize.css": {
 		"aP": 1,
 		"bl": 0,
@@ -76,6 +83,17 @@
 		"oA": 0,
 		"oAP": "\/download\/Dolapp.zip",
 		"oF": 0
+		},
+	"\/icon-192.png": {
+		"ft": 32768,
+		"iS": 19011,
+		"oA": 0,
+		"oAP": "\/icon-192.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"\/images\/logo.png": {
 		"ft": 32768,
